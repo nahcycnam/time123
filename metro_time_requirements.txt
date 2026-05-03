@@ -1,0 +1,9 @@
+PyQt6
+pandas
+openpyxl
+xlrd
+requests
+beautifulsoup4
+lxml
+pycryptodome>=3.15.0
+numpy
